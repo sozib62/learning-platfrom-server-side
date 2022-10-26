@@ -5,23 +5,22 @@ const cors = require('cors')
 
 app.use(cors())
 
-// const courseCategory = require('./Data/courseCategory.json')
 const course = require('./Data/course.json')
 
 app.get('/', (req, res) => {
     res.send('Education server running')
 });
 
-app.get('/category', (req, res) => {
-    res.send(courseCategory)
+
+app.get('/course', (req, res) => {
+    res.send(course)
 });
 
-app.get('/course/:id', (req, res) => {
+app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    const coursesData = course.find(c => c._id === id);
-    res.send(coursesData)
+    const course_id = course.find(c => c.id === id)
+    res.send(course_id)
 })
-
 
 app.listen(port, () => {
     console.log(`Education server running on port: ${port}`)

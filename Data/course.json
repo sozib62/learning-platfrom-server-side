@@ -1,62 +1,38 @@
 [
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "01",
-        "rating": {
-            "number": 4.5
-        },
+        "id": "1",
         "title": "HTML",
         "logo": "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw",
         "details": "HTML courses provide web browsers with instructions on how to display web content including text, graphics, and links to other web pages. graphics, and links to other web pages. These courses initiate formation of documents by  indulging structural cementation for texts like headings, links, paragraphs, list, quotes and many other items  You can do HTML by both offline and online means. There are various career opportunities which will open after completing HTML course by certificate as well as on diploma level. Rather than this a lot of institutes are available, who are eager to offer certificate courses by various prestigious institutes and colleges After completing graduation you can get jobs in both government and public sector After completing graduation you can get jobs in both government and public sector like Build and installer, software engineer, senior software engineer, front end developer, laravel developer, senior iOS developer, Programming language (Python) application developer and more."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-        "category_id": "02",
-        "rating": {
-            "number": 4.5
-        },
+        "id": "2",
         "title": "CSS",
         "logo": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
-        "details": "HTML courses provide web browsers with instructions on how to display web content including text, graphics, and links to other web pages. graphics, and links to other web pages. These courses initiate formation of documents by  indulging structural cementation for texts like headings, links, paragraphs, list, quotes and many other items  You can do HTML by both offline and online means. There are various career opportunities which will open after completing HTML course by certificate as well as on diploma level. Rather than this a lot of institutes are available, who are eager to offer certificate courses by various prestigious institutes and colleges After completing graduation you can get jobs in both government and public sector After completing graduation you can get jobs in both government and public sector like Build and installer, software engineer, senior software engineer, front end developer, laravel developer, senior iOS developer, Programming language (Python) application developer and more."
+        "details": "CSS(Cascading Style Sheets) allows you to create great - looking web pages, but how does it work under the hood ? This article explains what CSS is with a simple syntax example and also covers some key terms about the language.In the Introduction to HTML module, we covered what HTML is and how it is used to mark up documents.These documents will be readable in a web browser.Headings will look larger than regular text, paragraphs break onto a new line and have space between them.Links are colored and underlined to distinguish them from the rest of the text.What you are seeing are the browser's default styles — very basic styles — that the browser applies to HTML to make sure that the page will be basically readable even if no explicit styling is specified by the author of the page.However, the web would be a boring place if all websites looked like that. Using CSS, you can control exactly how HTML elements look in the browser, presenting your markup using whatever design you likey. ."
     },
     {
-        "_id": "f69a695f037cd9484cecaea37ca71011",
-        "category_id": "03",
-        "rating": {
-            "number": 4.5
-        },
+        "id": "3",
         "title": "JAVASCRIPT",
         "logo": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
-        "details": "HTML courses provide web browsers with instructions on how to display web content including text, graphics, and links to other web pages. graphics, and links to other web pages. These courses initiate formation of documents by  indulging structural cementation for texts like headings, links, paragraphs, list, quotes and many other items  You can do HTML by both offline and online means. There are various career opportunities which will open after completing HTML course by certificate as well as on diploma level. Rather than this a lot of institutes are available, who are eager to offer certificate courses by various prestigious institutes and colleges After completing graduation you can get jobs in both government and public sector After completing graduation you can get jobs in both government and public sector like Build and installer, software engineer, senior software engineer, front end developer, laravel developer, senior iOS developer, Programming language (Python) application developer and more."
+        "details": "Welcome to the MDN beginner's JavaScript course! In this article we will look at JavaScript from a high level, answering questions such as What is it? and What can you do with it?, and making sure you are comfortable with JavaScript's purpose.JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.So what can it really do?The core client-side JavaScript language consists of some common programming features that allow you to do things like:"
     },
     {
-        "_id": "f69a695f037cd9484cecaea37ca71012",
-        "category_id": "04",
-        "rating": {
-            "number": 4.5
-        },
+        "id": "4",
         "title": "REACT",
         "logo": "https://live.staticflickr.com/65535/52413593240_e00326e727_o.png",
-        "details": "HTML courses provide web browsers with instructions on how to display web content including text, graphics, and links to other web pages. graphics, and links to other web pages. These courses initiate formation of documents by  indulging structural cementation for texts like headings, links, paragraphs, list, quotes and many other items  You can do HTML by both offline and online means. There are various career opportunities which will open after completing HTML course by certificate as well as on diploma level. Rather than this a lot of institutes are available, who are eager to offer certificate courses by various prestigious institutes and colleges After completing graduation you can get jobs in both government and public sector After completing graduation you can get jobs in both government and public sector like Build and installer, software engineer, senior software engineer, front end developer, laravel developer, senior iOS developer, Programming language (Python) application developer and more."
+        "details": "React CSS CSS in React is used to style the React App or Component. The style attribute is the most used attribute for styling in React applications, which adds dynamically-computed styles at render time. It accepts a JavaScript object in camelCased properties rather than a CSS string. There are many ways available to add styling to your React App or Component with CSS. Here, we are going to discuss mainly four ways to style React Components, which are given below: App.jsCSS Module is another way of adding styles to your application. It is a CSS file where all class names and animation names are scoped locally by default. It is available only for the component which imports it, means any styling you add can never be applied to other components without your permission, and you never need to worry about name conflicts. You can create CSS Module with the .module.css extension like a myStyles.module.css name.Styled Components Styled-components is a library for React. It uses enhance CSS for styling React component systems in your application, which is written with a mixture of JavaScript and CSS."
     },
     {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-        "category_id": "05",
-        "rating": {
-            "number": 4.5
-        },
+        "id": "5",
         "title": "BOOTSTARP",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png",
-        "details": "HTML courses provide web browsers with instructions on how to display web content including text, graphics, and links to other web pages. graphics, and links to other web pages. These courses initiate formation of documents by  indulging structural cementation for texts like headings, links, paragraphs, list, quotes and many other items  You can do HTML by both offline and online means. There are various career opportunities which will open after completing HTML course by certificate as well as on diploma level. Rather than this a lot of institutes are available, who are eager to offer certificate courses by various prestigious institutes and colleges After completing graduation you can get jobs in both government and public sector After completing graduation you can get jobs in both government and public sector like Build and installer, software engineer, senior software engineer, front end developer, laravel developer, senior iOS developer, Programming language (Python) application developer and more."
+        "logo": "https://static.javatpoint.com/bootstrappages/images/bootstrap-tutorial.png",
+        "details": "Bootstrap is an open source JavaScript framework developed by the team at Twitter. It is a combination of HTML, CSS & JavaScript code designed to help build user interface components. Bootstrap was also programmed to support both HTML5 & CSS3. Everyone says bootstrap is an open-source css/front-end framework. Yes, it is but what does that mean? Suppose you need a web page that describe about your education, hobbies, skills etc. You will have to learn html to develop that page. it looks like a lot of text. just like black and white textual book placed on internet. nobody gonna read all that stuff. Yes you need some styling to make it attractive. now one option is to learn css by yourself and do amazing things but if you don't have much time go for other option that is bootstrap. we call it a front-end framework. Notice that Someone (bootstrap developers) spent time for you to re-use their css and we call it open source."
     },
     {
-        "_id": "11468ed61aee84de492a8b04158a22f0",
-        "category_id": "06",
-        "rating": {
-            "number": 4.5
-        },
+        "id": "6",
         "title": "PYTHON",
         "logo": "https://www.freecodecamp.org/news/content/images/2020/05/Python-language.png",
-        "details": "HTML courses provide web browsers with instructions on how to display web content including text, graphics, and links to other web pages. graphics, and links to other web pages. These courses initiate formation of documents by  indulging structural cementation for texts like headings, links, paragraphs, list, quotes and many other items  You can do HTML by both offline and online means. There are various career opportunities which will open after completing HTML course by certificate as well as on diploma level. Rather than this a lot of institutes are available, who are eager to offer certificate courses by various prestigious institutes and colleges After completing graduation you can get jobs in both government and public sector After completing graduation you can get jobs in both government and public sector like Build and installer, software engineer, senior software engineer, front end developer, laravel developer, senior iOS developer, Programming language (Python) application developer and more."
+        "details": "What is Python? Executive Summary Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.What is Python used for? Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances."
     }
 ]

@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5
+        },
+        "title": "HTML",
+        "logo": "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw",
+        "details": "HTML courses provide web browsers with instructions on how to display web content including text, graphics, and links to other web pages. graphics, and links to other web pages. These courses initiate formation of documents by  indulging structural cementation for texts like headings, links, paragraphs, list, quotes and many other items  You can do HTML by both offline and online means. There are various career opportunities which will open after completing HTML course by certificate as well as on diploma level. Rather than this a lot of institutes are available, who are eager to offer certificate courses by various prestigious institutes and colleges After completing graduation you can get jobs in both government and public sector After completing graduation you can get jobs in both government and public sector like Build and installer, software engineer, senior software engineer, front end developer, laravel developer, senior iOS developer, Programming language (Python) application developer and more."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "category_id": "02",
+        "rating": {
+            "number": 4.5
+        },
+        "title": "CSS",
+        "logo": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
+        "details": "HTML courses provide web browsers with instructions on how to display web content including text, graphics, and links to other web pages. graphics, and links to other web pages. These courses initiate formation of documents by  indulging structural cementation for texts like headings, links, paragraphs, list, quotes and many other items  You can do HTML by both offline and online means. There are various career opportunities which will open after completing HTML course by certificate as well as on diploma level. Rather than this a lot of institutes are available, who are eager to offer certificate courses by various prestigious institutes and colleges After completing graduation you can get jobs in both government and public sector After completing graduation you can get jobs in both government and public sector like Build and installer, software engineer, senior software engineer, front end developer, laravel developer, senior iOS developer, Programming language (Python) application developer and more."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "category_id": "03",
+        "rating": {
+            "number": 4.5
+        },
+        "title": "JAVASCRIPT",
+        "logo": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
+        "details": "HTML courses provide web browsers with instructions on how to display web content including text, graphics, and links to other web pages. graphics, and links to other web pages. These courses initiate formation of documents by  indulging structural cementation for texts like headings, links, paragraphs, list, quotes and many other items  You can do HTML by both offline and online means. There are various career opportunities which will open after completing HTML course by certificate as well as on diploma level. Rather than this a lot of institutes are available, who are eager to offer certificate courses by various prestigious institutes and colleges After completing graduation you can get jobs in both government and public sector After completing graduation you can get jobs in both government and public sector like Build and installer, software engineer, senior software engineer, front end developer, laravel developer, senior iOS developer, Programming language (Python) application developer and more."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "category_id": "04",
+        "rating": {
+            "number": 4.5
+        },
+        "title": "REACT",
+        "logo": "https://live.staticflickr.com/65535/52413593240_e00326e727_o.png",
+        "details": "HTML courses provide web browsers with instructions on how to display web content including text, graphics, and links to other web pages. graphics, and links to other web pages. These courses initiate formation of documents by  indulging structural cementation for texts like headings, links, paragraphs, list, quotes and many other items  You can do HTML by both offline and online means. There are various career opportunities which will open after completing HTML course by certificate as well as on diploma level. Rather than this a lot of institutes are available, who are eager to offer certificate courses by various prestigious institutes and colleges After completing graduation you can get jobs in both government and public sector After completing graduation you can get jobs in both government and public sector like Build and installer, software engineer, senior software engineer, front end developer, laravel developer, senior iOS developer, Programming language (Python) application developer and more."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "category_id": "05",
+        "rating": {
+            "number": 4.5
+        },
+        "title": "BOOTSTARP",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png",
+        "details": "HTML courses provide web browsers with instructions on how to display web content including text, graphics, and links to other web pages. graphics, and links to other web pages. These courses initiate formation of documents by  indulging structural cementation for texts like headings, links, paragraphs, list, quotes and many other items  You can do HTML by both offline and online means. There are various career opportunities which will open after completing HTML course by certificate as well as on diploma level. Rather than this a lot of institutes are available, who are eager to offer certificate courses by various prestigious institutes and colleges After completing graduation you can get jobs in both government and public sector After completing graduation you can get jobs in both government and public sector like Build and installer, software engineer, senior software engineer, front end developer, laravel developer, senior iOS developer, Programming language (Python) application developer and more."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "category_id": "06",
+        "rating": {
+            "number": 4.5
+        },
+        "title": "PYTHON",
+        "logo": "https://www.freecodecamp.org/news/content/images/2020/05/Python-language.png",
+        "details": "HTML courses provide web browsers with instructions on how to display web content including text, graphics, and links to other web pages. graphics, and links to other web pages. These courses initiate formation of documents by  indulging structural cementation for texts like headings, links, paragraphs, list, quotes and many other items  You can do HTML by both offline and online means. There are various career opportunities which will open after completing HTML course by certificate as well as on diploma level. Rather than this a lot of institutes are available, who are eager to offer certificate courses by various prestigious institutes and colleges After completing graduation you can get jobs in both government and public sector After completing graduation you can get jobs in both government and public sector like Build and installer, software engineer, senior software engineer, front end developer, laravel developer, senior iOS developer, Programming language (Python) application developer and more."
+    }
+]
